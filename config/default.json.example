@@ -1,0 +1,7 @@
+{
+		"subdomain": "mysubdomain",
+		"api_token_id": "Tt6KMcHZ6eUpp0w2gbDGHuCqgmHWgoZW",
+		"api_token_secret": "YzTXjEnJd22LHr4Wvt8fM7086CcEiHGhBudH3Nazzc4SnI6G",
+		"user_login": "your.email@your-org.com",
+		"user_password": "yourappspecificpassword"
+}
