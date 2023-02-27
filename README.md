@@ -21,7 +21,7 @@ This repository provides a PowerShell function, `sfapi`, to interact with the Sh
 1. Clone this repository in to a folder you would like to keep it in using: 
 	git clone --depth 1 https://github.com/kriipke/sfapi.git
 2. Navigate to the config folder with 
-	`cd sfpai\config`
+	`cd sfapi\config`
 3. Rename or copy `default.json.example` to `default.json` with:
 	`cp .\default.json.example .\default.json`
 4. Replace the values in your newly renamed `.\config\default.json` with your creds from step 0.
